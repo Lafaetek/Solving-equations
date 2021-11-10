@@ -1,2 +1,4 @@
-npx @vkontakte/create-vk-mini-app [app-directory-name] [options]
-npm start
+npx @vkontakte/create-vk-mini-app vk-apps-currency
+npm install @vkontakte/vk-tunnel -g
+cd vk-apps-currency
+npm start 
